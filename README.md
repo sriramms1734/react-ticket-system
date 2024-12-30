@@ -2,7 +2,10 @@
 
 A modern ticket management system built with React, TypeScript, and Tailwind CSS. Features include drag-and-drop functionality, image uploads, and priority management.
 
-![Ticket Management System](https://images.unsplash.com/photo-1611224923853-80b023f02d71?auto=format&fit=crop&q=80&w=1200)
+
+![Ticket Management System] <img width="1027" alt="Screenshot 2024-12-29 at 2 56 16 PM" src="https://github.com/user-attachments/assets/3adb7cf2-b01b-4a85-97fc-c4e6145f321e" />
+
+](https://images.unsplash.com/photo-1611224923853-80b023f02d71?auto=format&fit=crop&q=80&w=1200)
 
 ## Features
 
